@@ -1,0 +1,3 @@
+     aptdaemon crash
+
+sudo rm /var/cache/apt/*.bin
